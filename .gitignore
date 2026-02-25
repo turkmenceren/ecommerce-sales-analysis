@@ -1,0 +1,9 @@
+# Veritabanı ve Veri Dosyaları
+ecommerce.db
+Sample-Superstore.csv
+
+# Python ve Sistem Dosyaları
+__pycache__/
+*.pyc
+.DS_Store
+.streamlit/
