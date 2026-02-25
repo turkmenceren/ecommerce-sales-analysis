@@ -1,4 +1,4 @@
-# E-Ticaret Satış Analizi Projesi (SQL + Python + Streamlit)
+# E-Ticaret Satış Analizi Projesi 
 
 Bu proje, bir e-ticaret işletmesinin ham satış verilerini kullanarak iş zekası çözümleri üretmek amacıyla geliştirilmiştir. Veri temizleme sürecinden interaktif bir dashboard oluşturma aşamasına kadar tüm süreç uçtan uca yönetilmiştir.
 
